@@ -1,0 +1,14 @@
+python utils/saliency.py \
+        --model_path model/best_devacc_81.34228187919463_epoch_1_1_lan0_out_test.csv.pt\
+        --output_dir dataset/ \
+        --gpu \
+        --no_time \
+        --dataset_dir dataset/ \
+        --labels 2 \
+        --hidden_dim=768 \
+        --p_dropout=0.2 \
+        --out_dim=2 \
+        --num_epoch=1 \
+        --num_layer=1 \
+        --batch_size=8 \
+        --max_length=100 \

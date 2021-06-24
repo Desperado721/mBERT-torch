@@ -1,0 +1,4 @@
+2021-05-24 13:59:18,960 - records - INFO - all layers before 1 are used
+2021-05-24 14:00:25,982 - records - INFO - Training: Progress:0/1, accuracy:76.5978886756238, loss:0.5280589954452071
+2021-05-24 14:00:28,858 - records - INFO - Validation: Progress:0/1, accuracy:77.3489932885906
+2021-05-24 14:00:30,089 - records - INFO - Test: Progress:0/1, accuracy:77.3489932885906

@@ -1,0 +1,13 @@
+python utils/saliency_occ.py \
+        --models_dir model/best_devacc_81.34228187919463_epoch_1_1_lan0_out_test.csv.pt\
+        --output_dir dataset/ \
+        --gpu \
+        --saliency occlusion \
+        --dataset_dir dataset/ \
+        --hidden_dim=768 \
+        --p_dropout=0.2 \
+        --out_dim=2 \
+        --num_epoch=1 \
+        --num_layer=1 \
+        --batch_size=8 \
+        --max_length=100 \

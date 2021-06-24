@@ -1,0 +1,36 @@
+2021-04-20 14:51:29,904 - records - INFO - only 0th layer is used
+2021-04-20 14:52:25,829 - records - INFO - Training: Progress:0/1, accuracy:75.10004708097928, loss:0.5495404056896036
+2021-04-20 14:52:29,223 - records - INFO - Validation: Progress:0/1, accuracy:75.58900523560209
+2021-04-20 14:52:46,537 - records - INFO - only 1th layer is used
+2021-04-20 14:53:42,936 - records - INFO - Training: Progress:0/1, accuracy:75.50023540489642, loss:0.5452177426207762
+2021-04-20 14:53:46,107 - records - INFO - Validation: Progress:0/1, accuracy:77.01243455497382
+2021-04-20 14:54:03,066 - records - INFO - only 2th layer is used
+2021-04-20 14:54:59,263 - records - INFO - Training: Progress:0/1, accuracy:75.0765065913371, loss:0.5548667765157596
+2021-04-20 14:55:02,413 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 14:55:19,318 - records - INFO - only 3th layer is used
+2021-04-20 14:56:15,265 - records - INFO - Training: Progress:0/1, accuracy:75.41784369114878, loss:0.5499501548805704
+2021-04-20 14:56:18,439 - records - INFO - Validation: Progress:0/1, accuracy:76.09620418848168
+2021-04-20 14:56:35,836 - records - INFO - only 4th layer is used
+2021-04-20 14:57:32,414 - records - INFO - Training: Progress:0/1, accuracy:75.02354048964219, loss:0.5506363797392662
+2021-04-20 14:57:35,572 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 14:57:52,599 - records - INFO - only 5th layer is used
+2021-04-20 14:58:48,618 - records - INFO - Training: Progress:0/1, accuracy:75.07062146892656, loss:0.5545438484704427
+2021-04-20 14:58:51,807 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 14:59:08,955 - records - INFO - only 6th layer is used
+2021-04-20 15:00:05,214 - records - INFO - Training: Progress:0/1, accuracy:74.9882297551789, loss:0.5619368633490386
+2021-04-20 15:00:08,475 - records - INFO - Validation: Progress:0/1, accuracy:74.93455497382199
+2021-04-20 15:00:25,502 - records - INFO - only 7th layer is used
+2021-04-20 15:01:21,639 - records - INFO - Training: Progress:0/1, accuracy:75.0765065913371, loss:0.5602863160174221
+2021-04-20 15:01:24,843 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 15:01:42,279 - records - INFO - only 8th layer is used
+2021-04-20 15:02:38,610 - records - INFO - Training: Progress:0/1, accuracy:75.02942561205273, loss:0.55445288003838
+2021-04-20 15:02:41,832 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 15:02:58,713 - records - INFO - only 9th layer is used
+2021-04-20 15:03:54,380 - records - INFO - Training: Progress:0/1, accuracy:75.00588512241055, loss:0.5569344441951892
+2021-04-20 15:03:57,565 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 15:04:14,584 - records - INFO - only 10th layer is used
+2021-04-20 15:05:10,580 - records - INFO - Training: Progress:0/1, accuracy:75.0117702448211, loss:0.5517132872270101
+2021-04-20 15:05:13,861 - records - INFO - Validation: Progress:0/1, accuracy:74.44371727748691
+2021-04-20 15:05:30,950 - records - INFO - only 11th layer is used
+2021-04-20 15:06:27,032 - records - INFO - Training: Progress:0/1, accuracy:75.0765065913371, loss:0.5500374471175917
+2021-04-20 15:06:30,221 - records - INFO - Validation: Progress:0/1, accuracy:74.18193717277487

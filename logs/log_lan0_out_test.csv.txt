@@ -1,0 +1,14 @@
+2021-05-24 13:44:46,192 - records - INFO - all layers before 12 are used
+2021-05-24 13:48:41,954 - records - INFO - Training: Progress:0/1, accuracy:74.62938005390835, loss:0.5734877656595864
+2021-05-24 13:50:33,761 - records - INFO - all layers before 1 are used
+2021-05-24 13:51:40,602 - records - INFO - Training: Progress:0/1, accuracy:80.09722757027339, loss:0.46934117064235714
+2021-05-24 13:51:43,524 - records - INFO - Validation: Progress:0/1, accuracy:81.29194630872483
+2021-05-24 13:51:44,767 - records - INFO - Test: Progress:0/1, accuracy:81.29194630872483
+2021-05-24 13:52:16,702 - records - INFO - all layers before 2 are used
+2021-05-24 13:53:37,282 - records - INFO - Training: Progress:0/1, accuracy:76.044474393531, loss:0.5488472671481477
+2021-05-24 13:53:41,268 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-24 13:53:43,071 - records - INFO - Test: Progress:0/1, accuracy:75.0
+2021-05-24 13:57:34,745 - records - INFO - all layers before 1 are used
+2021-05-24 13:58:41,815 - records - INFO - Training: Progress:0/1, accuracy:81.01655756642279, loss:0.4525655597307772
+2021-05-24 13:58:44,711 - records - INFO - Validation: Progress:0/1, accuracy:81.34228187919463
+2021-05-24 13:58:46,008 - records - INFO - Test: Progress:0/1, accuracy:81.34228187919463

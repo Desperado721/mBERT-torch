@@ -1,0 +1,573 @@
+2021-04-20 16:25:27,875 - records - INFO - only 0th layer is used
+2021-04-20 16:26:35,125 - records - INFO - Training: Progress:0/1, accuracy:80.11648055448595, loss:0.47196801529510873
+2021-04-20 16:26:39,355 - records - INFO - Validation: Progress:0/1, accuracy:82.68112701252237
+2021-04-20 16:27:04,297 - records - INFO - only 1th layer is used
+2021-04-20 16:28:11,606 - records - INFO - Training: Progress:0/1, accuracy:79.86619175972275, loss:0.4760550435318321
+2021-04-20 16:28:15,796 - records - INFO - Validation: Progress:0/1, accuracy:82.50223613595706
+2021-04-20 16:28:39,827 - records - INFO - only 2th layer is used
+2021-04-20 16:29:47,979 - records - INFO - Training: Progress:0/1, accuracy:79.67847516365036, loss:0.4832645341392476
+2021-04-20 16:29:52,249 - records - INFO - Validation: Progress:0/1, accuracy:82.59168157423971
+2021-04-20 16:30:16,166 - records - INFO - only 3th layer is used
+2021-04-20 16:31:23,600 - records - INFO - Training: Progress:0/1, accuracy:80.06353484790142, loss:0.4778050048148398
+2021-04-20 16:31:27,883 - records - INFO - Validation: Progress:0/1, accuracy:82.87119856887298
+2021-04-20 16:31:51,847 - records - INFO - only 4th layer is used
+2021-04-20 16:32:59,054 - records - INFO - Training: Progress:0/1, accuracy:78.14304967269926, loss:0.4993127138742264
+2021-04-20 16:33:03,217 - records - INFO - Validation: Progress:0/1, accuracy:82.15563506261181
+2021-04-20 16:33:27,671 - records - INFO - only 5th layer is used
+2021-04-20 16:34:34,644 - records - INFO - Training: Progress:0/1, accuracy:79.27897574123989, loss:0.48658878476999795
+2021-04-20 16:34:38,831 - records - INFO - Validation: Progress:0/1, accuracy:81.97674418604652
+2021-04-20 16:35:04,834 - records - INFO - only 6th layer is used
+2021-04-20 16:36:13,215 - records - INFO - Training: Progress:0/1, accuracy:79.12013862148633, loss:0.4854754748186516
+2021-04-20 16:36:17,634 - records - INFO - Validation: Progress:0/1, accuracy:81.82021466905188
+2021-04-20 16:36:44,598 - records - INFO - only 7th layer is used
+2021-04-20 16:37:52,905 - records - INFO - Training: Progress:0/1, accuracy:79.68810165575664, loss:0.48607393595453496
+2021-04-20 16:37:57,411 - records - INFO - Validation: Progress:0/1, accuracy:82.6587656529517
+2021-04-20 16:38:23,981 - records - INFO - only 8th layer is used
+2021-04-20 16:39:32,917 - records - INFO - Training: Progress:0/1, accuracy:79.01424720831729, loss:0.486315487713643
+2021-04-20 16:39:37,496 - records - INFO - Validation: Progress:0/1, accuracy:82.25626118067979
+2021-04-20 16:40:03,277 - records - INFO - only 9th layer is used
+2021-04-20 16:41:11,755 - records - INFO - Training: Progress:0/1, accuracy:79.59664998074702, loss:0.48188865535365744
+2021-04-20 16:41:16,193 - records - INFO - Validation: Progress:0/1, accuracy:82.3345259391771
+2021-04-20 16:41:42,656 - records - INFO - only 10th layer is used
+2021-04-20 16:42:51,227 - records - INFO - Training: Progress:0/1, accuracy:79.02868694647671, loss:0.4930657395202929
+2021-04-20 16:42:55,712 - records - INFO - Validation: Progress:0/1, accuracy:82.32334525939177
+2021-04-20 16:43:24,158 - records - INFO - only 11th layer is used
+2021-04-20 16:44:31,302 - records - INFO - Training: Progress:0/1, accuracy:79.30785521755872, loss:0.48575651585413115
+2021-04-20 16:44:35,747 - records - INFO - Validation: Progress:0/1, accuracy:82.70348837209302
+2021-04-20 17:49:49,076 - records - INFO - only 0th layer is used
+2021-04-20 17:50:06,095 - records - INFO - Training: Progress:0/1, accuracy:74.90854832499038, loss:0.5655984416299936
+2021-04-20 17:50:10,132 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:00:56,908 - records - INFO - only 0th layer is used
+2021-04-20 18:01:13,957 - records - INFO - Training: Progress:0/1, accuracy:74.58606083943012, loss:0.5680899440748765
+2021-04-20 18:01:17,937 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:01:41,578 - records - INFO - only 1th layer is used
+2021-04-20 18:01:58,720 - records - INFO - Training: Progress:0/1, accuracy:74.85560261840585, loss:0.5667379049094402
+2021-04-20 18:02:02,702 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:02:46,882 - records - INFO - only 0th layer is used
+2021-04-20 18:03:03,970 - records - INFO - Training: Progress:0/1, accuracy:74.71120523681171, loss:0.5676018606712142
+2021-04-20 18:03:08,047 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:03:31,490 - records - INFO - only 1th layer is used
+2021-04-20 18:03:48,545 - records - INFO - Training: Progress:0/1, accuracy:74.67751251443974, loss:0.5680612879771199
+2021-04-20 18:03:52,491 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:04:16,287 - records - INFO - only 2th layer is used
+2021-04-20 18:04:33,436 - records - INFO - Training: Progress:0/1, accuracy:74.80265691182133, loss:0.5675634714643176
+2021-04-20 18:04:37,418 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:05:01,174 - records - INFO - only 3th layer is used
+2021-04-20 18:05:18,357 - records - INFO - Training: Progress:0/1, accuracy:74.36465152098576, loss:0.5699277941623834
+2021-04-20 18:05:22,473 - records - INFO - Validation: Progress:0/1, accuracy:74.96645796064401
+2021-04-20 18:05:46,098 - records - INFO - only 4th layer is used
+2021-04-20 18:41:26,756 - records - INFO - only 0th layer is used
+2021-04-20 18:41:48,146 - records - INFO - Training: Progress:0/1, accuracy:74.7352714670774, loss:0.5666837881207696
+2021-04-20 18:44:04,741 - records - INFO - only 1th layer is used
+2021-04-20 18:44:26,125 - records - INFO - Training: Progress:0/2, accuracy:74.53792837889873, loss:0.5677150221262521
+2021-04-20 18:44:30,668 - records - INFO - Validation: Progress:0/2, accuracy:74.96645796064401
+2021-04-20 18:44:40,494 - records - INFO - Training: Progress:1/2, accuracy:74.97112052368117, loss:0.5617436893947041
+2021-04-20 18:44:43,585 - records - INFO - Validation: Progress:1/2, accuracy:74.96645796064401
+2021-04-20 18:47:38,458 - records - INFO - only 1th layer is used
+2021-04-20 18:47:58,091 - records - INFO - Training: Progress:0/10, accuracy:74.94705429341548, loss:0.5658566804461448
+2021-04-20 18:48:02,389 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 18:48:12,369 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5629893229886298
+2021-04-20 18:48:15,417 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 18:48:25,414 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.561965583659017
+2021-04-20 18:48:28,664 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 18:48:39,553 - records - INFO - Training: Progress:3/10, accuracy:74.97112052368117, loss:0.5613607588953177
+2021-04-20 18:48:42,744 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 18:48:52,743 - records - INFO - Training: Progress:4/10, accuracy:74.97112052368117, loss:0.5603868317835874
+2021-04-20 18:48:55,840 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 18:49:05,794 - records - INFO - Training: Progress:5/10, accuracy:74.97112052368117, loss:0.5599573254929536
+2021-04-20 18:49:08,860 - records - INFO - Validation: Progress:5/10, accuracy:74.96645796064401
+2021-04-20 18:49:18,772 - records - INFO - Training: Progress:6/10, accuracy:74.97112052368117, loss:0.5587955697148774
+2021-04-20 18:49:21,832 - records - INFO - Validation: Progress:6/10, accuracy:74.96645796064401
+2021-04-20 18:49:31,866 - records - INFO - Training: Progress:7/10, accuracy:74.97112052368117, loss:0.5576269780219313
+2021-04-20 18:49:34,929 - records - INFO - Validation: Progress:7/10, accuracy:74.96645796064401
+2021-04-20 18:49:45,270 - records - INFO - Training: Progress:8/10, accuracy:74.97112052368117, loss:0.5575545827528583
+2021-04-20 18:49:48,448 - records - INFO - Validation: Progress:8/10, accuracy:74.96645796064401
+2021-04-20 18:49:58,595 - records - INFO - Training: Progress:9/10, accuracy:74.97112052368117, loss:0.5572022440619867
+2021-04-20 18:50:01,672 - records - INFO - Validation: Progress:9/10, accuracy:74.96645796064401
+2021-04-20 18:59:20,849 - records - INFO - only 1th layer is used
+2021-04-20 18:59:39,916 - records - INFO - Training: Progress:0/10, accuracy:74.94705429341548, loss:0.5654352518070372
+2021-04-20 18:59:44,452 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 18:59:54,489 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5605902540704403
+2021-04-20 18:59:57,570 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:00:08,236 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.5557196455583419
+2021-04-20 19:00:11,684 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:00:21,796 - records - INFO - Training: Progress:3/10, accuracy:74.97112052368117, loss:0.5516960779646061
+2021-04-20 19:00:25,733 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:00:37,949 - records - INFO - Training: Progress:4/10, accuracy:74.97112052368117, loss:0.5500192129937879
+2021-04-20 19:00:41,351 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 19:01:47,535 - records - INFO - only 1th layer is used
+2021-04-20 19:03:01,206 - records - INFO - Training: Progress:0/10, accuracy:51.41509433962264, loss:0.6727182294916638
+2021-04-20 19:03:05,701 - records - INFO - Validation: Progress:0/10, accuracy:24.98881932021467
+2021-04-20 19:04:04,934 - records - INFO - Training: Progress:1/10, accuracy:25.0, loss:0.6931471824645996
+2021-04-20 19:04:08,259 - records - INFO - Validation: Progress:1/10, accuracy:24.98881932021467
+2021-04-20 19:05:07,458 - records - INFO - Training: Progress:2/10, accuracy:25.0, loss:0.6931471824645996
+2021-04-20 19:05:10,811 - records - INFO - Validation: Progress:2/10, accuracy:24.98881932021467
+2021-04-20 19:06:46,063 - records - INFO - only 1th layer is used
+2021-04-20 19:07:57,223 - records - INFO - Training: Progress:0/10, accuracy:77.71467077396997, loss:0.5081131957187348
+2021-04-20 19:08:01,734 - records - INFO - Validation: Progress:0/10, accuracy:82.08855098389982
+2021-04-20 19:09:04,651 - records - INFO - Training: Progress:1/10, accuracy:83.73122834039276, loss:0.4040783578884983
+2021-04-20 19:09:09,018 - records - INFO - Validation: Progress:1/10, accuracy:83.0165474060823
+2021-04-20 19:10:11,701 - records - INFO - Training: Progress:2/10, accuracy:87.07643434732384, loss:0.34822420105137275
+2021-04-20 19:10:15,126 - records - INFO - Validation: Progress:2/10, accuracy:83.0165474060823
+2021-04-20 19:11:18,041 - records - INFO - Training: Progress:3/10, accuracy:90.09915286869465, loss:0.30041533837099926
+2021-04-20 19:11:21,566 - records - INFO - Validation: Progress:3/10, accuracy:82.64758497316637
+2021-04-20 19:12:24,826 - records - INFO - Training: Progress:4/10, accuracy:92.31805929919138, loss:0.2646878350972211
+2021-04-20 19:12:28,343 - records - INFO - Validation: Progress:4/10, accuracy:76.9901610017889
+2021-04-20 19:13:59,888 - records - INFO - only 1th layer is used
+2021-04-20 19:14:18,938 - records - INFO - Training: Progress:0/10, accuracy:74.94705429341548, loss:0.5731636190189505
+2021-04-20 19:14:23,327 - records - INFO - Validation: Progress:0/10, accuracy:599.7316636851521
+2021-04-20 19:14:34,440 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5715924460852564
+2021-04-20 19:14:37,642 - records - INFO - Validation: Progress:1/10, accuracy:599.7316636851521
+2021-04-20 19:15:39,938 - records - INFO - only 1th layer is used
+2021-04-20 19:15:58,911 - records - INFO - Training: Progress:0/10, accuracy:74.88448209472469, loss:0.5712775853926924
+2021-04-20 19:16:03,594 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:16:14,019 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5685194194156205
+2021-04-20 19:16:17,162 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:16:28,395 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.5678823709338732
+2021-04-20 19:16:31,498 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:16:41,733 - records - INFO - Training: Progress:3/10, accuracy:74.97112052368117, loss:0.5672628672411224
+2021-04-20 19:16:44,859 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:16:55,068 - records - INFO - Training: Progress:4/10, accuracy:74.97112052368117, loss:0.5669391198448828
+2021-04-20 19:16:58,658 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 19:17:09,409 - records - INFO - Training: Progress:5/10, accuracy:74.97112052368117, loss:0.567812888052861
+2021-04-20 19:17:12,569 - records - INFO - Validation: Progress:5/10, accuracy:74.96645796064401
+2021-04-20 19:17:23,760 - records - INFO - Training: Progress:6/10, accuracy:74.97112052368117, loss:0.566245773691694
+2021-04-20 19:17:26,909 - records - INFO - Validation: Progress:6/10, accuracy:74.96645796064401
+2021-04-20 19:17:37,263 - records - INFO - Training: Progress:7/10, accuracy:74.97112052368117, loss:0.5676575418522967
+2021-04-20 19:17:40,726 - records - INFO - Validation: Progress:7/10, accuracy:74.96645796064401
+2021-04-20 19:17:51,396 - records - INFO - Training: Progress:8/10, accuracy:74.97112052368117, loss:0.5646198891278271
+2021-04-20 19:17:54,603 - records - INFO - Validation: Progress:8/10, accuracy:74.96645796064401
+2021-04-20 19:18:05,184 - records - INFO - Training: Progress:9/10, accuracy:74.97112052368117, loss:0.5676127118436841
+2021-04-20 19:18:09,215 - records - INFO - Validation: Progress:9/10, accuracy:74.96645796064401
+2021-04-20 19:19:00,737 - records - INFO - only 1th layer is used
+2021-04-20 19:19:20,710 - records - INFO - Training: Progress:0/10, accuracy:50.89045051983057, loss:0.6771439084432471
+2021-04-20 19:19:25,259 - records - INFO - Validation: Progress:0/10, accuracy:24.98881932021467
+2021-04-20 19:19:35,894 - records - INFO - Training: Progress:1/10, accuracy:49.86041586445899, loss:0.6796264116081037
+2021-04-20 19:19:39,156 - records - INFO - Validation: Progress:1/10, accuracy:24.98881932021467
+2021-04-20 19:19:49,758 - records - INFO - Training: Progress:2/10, accuracy:46.17828263380824, loss:0.6983925810985304
+2021-04-20 19:19:52,982 - records - INFO - Validation: Progress:2/10, accuracy:24.98881932021467
+2021-04-20 19:20:03,663 - records - INFO - Training: Progress:3/10, accuracy:47.73296110897189, loss:0.6701862492789018
+2021-04-20 19:20:08,140 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:20:19,819 - records - INFO - Training: Progress:4/10, accuracy:49.78821717366192, loss:0.6690039896866337
+2021-04-20 19:20:22,953 - records - INFO - Validation: Progress:4/10, accuracy:24.98881932021467
+2021-04-20 19:22:04,344 - records - INFO - only 1th layer is used
+2021-04-20 19:22:26,087 - records - INFO - Training: Progress:0/10, accuracy:64.24720831728918, loss:1.104695160769408
+2021-04-20 19:22:31,650 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:22:43,490 - records - INFO - Training: Progress:1/10, accuracy:63.876588371197535, loss:1.1661693252846708
+2021-04-20 19:22:46,815 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:23:38,222 - records - INFO - only 1th layer is used
+2021-04-20 19:23:55,983 - records - INFO - Training: Progress:0/10, accuracy:60.930881786676935, loss:0.6496533852817923
+2021-04-20 19:24:00,120 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:24:10,281 - records - INFO - Training: Progress:1/10, accuracy:53.23450134770889, loss:0.6594832002783814
+2021-04-20 19:24:13,330 - records - INFO - Validation: Progress:1/10, accuracy:24.98881932021467
+2021-04-20 19:24:23,137 - records - INFO - Training: Progress:2/10, accuracy:37.6010781671159, loss:0.684071393978334
+2021-04-20 19:24:26,270 - records - INFO - Validation: Progress:2/10, accuracy:24.98881932021467
+2021-04-20 19:24:36,075 - records - INFO - Training: Progress:3/10, accuracy:47.04948016942626, loss:0.6682731169471384
+2021-04-20 19:24:39,088 - records - INFO - Validation: Progress:3/10, accuracy:24.98881932021467
+2021-04-20 19:24:48,976 - records - INFO - Training: Progress:4/10, accuracy:61.10415864458991, loss:0.6593241033803788
+2021-04-20 19:24:52,169 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 19:25:01,925 - records - INFO - Training: Progress:5/10, accuracy:43.07855217558721, loss:0.6739910609236947
+2021-04-20 19:25:04,995 - records - INFO - Validation: Progress:5/10, accuracy:24.98881932021467
+2021-04-20 19:25:14,794 - records - INFO - Training: Progress:6/10, accuracy:48.57527916827108, loss:0.6748490277498467
+2021-04-20 19:25:17,768 - records - INFO - Validation: Progress:6/10, accuracy:24.98881932021467
+2021-04-20 19:25:27,900 - records - INFO - Training: Progress:7/10, accuracy:48.78224874855603, loss:0.6652333763674401
+2021-04-20 19:26:31,414 - records - INFO - only 1th layer is used
+2021-04-20 19:26:50,415 - records - INFO - Training: Progress:0/10, accuracy:74.95668078552175, loss:0.5736594585946398
+2021-04-20 19:26:54,424 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:27:04,319 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5735729773961722
+2021-04-20 19:27:07,230 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:27:17,052 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.5735671986719255
+2021-04-20 19:27:20,111 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:32:30,615 - records - INFO - only 1th layer is used
+2021-04-20 19:32:49,311 - records - INFO - Training: Progress:0/10, accuracy:65.3831343858298, loss:0.6509931534356597
+2021-04-20 19:32:53,227 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:33:03,066 - records - INFO - Training: Progress:1/10, accuracy:58.86599922988063, loss:0.6537925519700412
+2021-04-20 19:33:06,065 - records - INFO - Validation: Progress:1/10, accuracy:24.98881932021467
+2021-04-20 19:33:15,579 - records - INFO - Training: Progress:2/10, accuracy:49.82190989603389, loss:0.6647090714082012
+2021-04-20 19:33:41,931 - records - INFO - only 1th layer is used
+2021-04-20 19:33:59,004 - records - INFO - Training: Progress:0/10, accuracy:74.95186753946862, loss:0.5670924883165128
+2021-04-20 19:34:02,986 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:34:12,771 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5648612312722949
+2021-04-20 19:34:15,826 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:34:25,474 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.5632413239331259
+2021-04-20 19:34:28,518 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:34:38,112 - records - INFO - Training: Progress:3/10, accuracy:74.97112052368117, loss:0.5629501728470802
+2021-04-20 19:34:41,166 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:35:37,036 - records - INFO - only 1th layer is used
+2021-04-20 19:35:54,183 - records - INFO - Training: Progress:0/10, accuracy:74.95668078552175, loss:0.5698690119159648
+2021-04-20 19:35:58,247 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:36:07,915 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5693697035714301
+2021-04-20 19:36:10,975 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:36:20,568 - records - INFO - Training: Progress:2/10, accuracy:74.97112052368117, loss:0.5684145414225634
+2021-04-20 19:36:23,622 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:36:33,301 - records - INFO - Training: Progress:3/10, accuracy:74.97112052368117, loss:0.5696705720965844
+2021-04-20 19:36:36,353 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:36:46,047 - records - INFO - Training: Progress:4/10, accuracy:74.97112052368117, loss:0.5688426370890636
+2021-04-20 19:36:49,121 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 19:36:58,819 - records - INFO - Training: Progress:5/10, accuracy:74.97112052368117, loss:0.5679934164412351
+2021-04-20 19:37:01,874 - records - INFO - Validation: Progress:5/10, accuracy:74.96645796064401
+2021-04-20 19:37:34,971 - records - INFO - only 1th layer is used
+2021-04-20 19:37:52,563 - records - INFO - Training: Progress:0/10, accuracy:65.25317674239507, loss:0.6222017459057825
+2021-04-20 19:37:56,566 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:38:06,529 - records - INFO - Training: Progress:1/10, accuracy:62.30265691182133, loss:0.6437059449929203
+2021-04-20 19:38:09,568 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:38:19,466 - records - INFO - Training: Progress:2/10, accuracy:56.2812860993454, loss:0.66150878622273
+2021-04-20 19:38:22,559 - records - INFO - Validation: Progress:2/10, accuracy:24.98881932021467
+2021-04-20 19:38:34,470 - records - INFO - Training: Progress:3/10, accuracy:53.528109356950324, loss:0.6563626483604914
+2021-04-20 19:38:37,790 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:38:47,620 - records - INFO - Training: Progress:4/10, accuracy:47.511551790527534, loss:0.6654814306616462
+2021-04-20 19:38:50,711 - records - INFO - Validation: Progress:4/10, accuracy:24.98881932021467
+2021-04-20 19:39:39,757 - records - INFO - only 1th layer is used
+2021-04-20 19:40:27,279 - records - INFO - only 1th layer is used
+2021-04-20 19:40:47,609 - records - INFO - Training: Progress:0/10, accuracy:74.93261455525607, loss:0.5739711136383233
+2021-04-20 19:40:51,662 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:41:02,902 - records - INFO - Training: Progress:1/10, accuracy:74.75933769734308, loss:0.5753992941340988
+2021-04-20 19:41:06,000 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:41:17,132 - records - INFO - Training: Progress:2/10, accuracy:74.79303041971505, loss:0.5790541716490886
+2021-04-20 19:41:20,282 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:41:31,523 - records - INFO - Training: Progress:3/10, accuracy:74.9614940315749, loss:0.576011531775072
+2021-04-20 19:41:34,630 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:41:45,636 - records - INFO - Training: Progress:4/10, accuracy:74.86522911051213, loss:0.5786999697952281
+2021-04-20 19:41:48,682 - records - INFO - Validation: Progress:4/10, accuracy:74.96645796064401
+2021-04-20 19:42:21,918 - records - INFO - only 1th layer is used
+2021-04-20 19:42:41,203 - records - INFO - Training: Progress:0/10, accuracy:74.58124759337697, loss:0.582920918134276
+2021-04-20 19:42:45,255 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:42:58,740 - records - INFO - Training: Progress:1/10, accuracy:74.49942241047363, loss:0.5878469821153166
+2021-04-20 19:43:01,804 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:43:12,851 - records - INFO - Training: Progress:2/10, accuracy:74.40315748941086, loss:0.5835662600388883
+2021-04-20 19:43:15,891 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:43:26,813 - records - INFO - Training: Progress:3/10, accuracy:74.6341932999615, loss:0.5862286517975374
+2021-04-20 19:43:29,890 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:43:55,117 - records - INFO - only 1th layer is used
+2021-04-20 19:44:12,219 - records - INFO - Training: Progress:0/10, accuracy:74.39834424335773, loss:0.5832272121079572
+2021-04-20 19:44:16,299 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:44:26,277 - records - INFO - Training: Progress:1/10, accuracy:74.28763958413555, loss:0.5809711973122968
+2021-04-20 19:44:29,333 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:44:39,107 - records - INFO - Training: Progress:2/10, accuracy:74.37427801309202, loss:0.580669291561321
+2021-04-20 19:44:42,169 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:44:51,911 - records - INFO - Training: Progress:3/10, accuracy:74.13361571043512, loss:0.5824322679098358
+2021-04-20 19:44:54,959 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:45:23,609 - records - INFO - only 1th layer is used
+2021-04-20 19:45:40,779 - records - INFO - Training: Progress:0/10, accuracy:72.8484790142472, loss:0.6078938686267018
+2021-04-20 19:45:44,712 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:45:54,481 - records - INFO - Training: Progress:1/10, accuracy:73.14690026954177, loss:0.6063524287245654
+2021-04-20 19:45:57,523 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:46:07,093 - records - INFO - Training: Progress:2/10, accuracy:73.4020023103581, loss:0.6033771928008194
+2021-04-20 19:46:10,134 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:46:19,796 - records - INFO - Training: Progress:3/10, accuracy:72.9495571813631, loss:0.6029787009175255
+2021-04-20 19:46:22,837 - records - INFO - Validation: Progress:3/10, accuracy:74.96645796064401
+2021-04-20 19:46:32,473 - records - INFO - Training: Progress:4/10, accuracy:73.00250288794763, loss:0.6019241961467299
+2021-04-20 19:46:35,488 - records - INFO - Validation: Progress:4/10, accuracy:61.53846153846154
+2021-04-20 19:46:45,111 - records - INFO - Training: Progress:5/10, accuracy:73.00250288794763, loss:0.601054916447362
+2021-04-20 19:46:48,151 - records - INFO - Validation: Progress:5/10, accuracy:74.94409660107334
+2021-04-20 19:46:57,745 - records - INFO - Training: Progress:6/10, accuracy:73.88814016172506, loss:0.5939818503916792
+2021-04-20 19:47:00,786 - records - INFO - Validation: Progress:6/10, accuracy:74.96645796064401
+2021-04-20 19:47:10,377 - records - INFO - Training: Progress:7/10, accuracy:73.10358105506353, loss:0.6014730039844846
+2021-04-20 19:47:13,427 - records - INFO - Validation: Progress:7/10, accuracy:74.96645796064401
+2021-04-20 19:47:23,154 - records - INFO - Training: Progress:8/10, accuracy:72.86291875240663, loss:0.6072809490467385
+2021-04-20 19:47:26,195 - records - INFO - Validation: Progress:8/10, accuracy:74.96645796064401
+2021-04-20 19:47:35,882 - records - INFO - Training: Progress:9/10, accuracy:73.32980361956103, loss:0.5991632240032938
+2021-04-20 19:47:38,920 - records - INFO - Validation: Progress:9/10, accuracy:74.95527728085868
+2021-04-20 19:48:03,925 - records - INFO - only 1th layer is used
+2021-04-20 19:49:03,377 - records - INFO - Training: Progress:0/10, accuracy:72.45860608394301, loss:0.6111286714067701
+2021-04-20 19:49:24,165 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:50:13,779 - records - INFO - Training: Progress:1/10, accuracy:72.93030419715056, loss:0.6061233850784132
+2021-04-20 19:50:33,232 - records - INFO - Validation: Progress:1/10, accuracy:74.96645796064401
+2021-04-20 19:51:11,332 - records - INFO - only 1th layer is used
+2021-04-20 19:52:10,898 - records - INFO - Training: Progress:0/10, accuracy:71.84251058914131, loss:0.6203645434320937
+2021-04-20 19:52:31,744 - records - INFO - Validation: Progress:0/10, accuracy:74.96645796064401
+2021-04-20 19:53:21,911 - records - INFO - Training: Progress:1/10, accuracy:71.54890257989989, loss:0.6297570681948936
+2021-04-20 19:53:41,392 - records - INFO - Validation: Progress:1/10, accuracy:74.79874776386404
+2021-04-20 19:54:31,435 - records - INFO - Training: Progress:2/10, accuracy:71.87139006546015, loss:0.6221237881101946
+2021-04-20 19:54:51,126 - records - INFO - Validation: Progress:2/10, accuracy:74.96645796064401
+2021-04-20 19:56:39,389 - records - INFO - only 1th layer is used
+2021-04-20 19:57:38,629 - records - INFO - Training: Progress:0/100, accuracy:71.94840200231036, loss:0.6164043960826737
+2021-04-20 19:57:59,417 - records - INFO - Validation: Progress:0/100, accuracy:74.92173524150269
+2021-04-20 19:58:49,245 - records - INFO - Training: Progress:1/100, accuracy:72.54043126684635, loss:0.6058099996112072
+2021-04-20 19:59:09,969 - records - INFO - Validation: Progress:1/100, accuracy:74.96645796064401
+2021-04-20 19:59:59,530 - records - INFO - Training: Progress:2/100, accuracy:72.20831728917982, loss:0.6133212523404358
+2021-04-20 20:00:19,032 - records - INFO - Validation: Progress:2/100, accuracy:27.21377459749553
+2021-04-20 20:01:08,983 - records - INFO - Training: Progress:3/100, accuracy:72.66557566422796, loss:0.608724343141094
+2021-04-20 20:01:28,642 - records - INFO - Validation: Progress:3/100, accuracy:74.96645796064401
+2021-04-20 20:02:18,597 - records - INFO - Training: Progress:4/100, accuracy:71.81844435887562, loss:0.6172973093697582
+2021-04-20 20:02:38,225 - records - INFO - Validation: Progress:4/100, accuracy:74.96645796064401
+2021-04-20 20:03:28,189 - records - INFO - Training: Progress:5/100, accuracy:72.91586445899114, loss:0.6045143688710828
+2021-04-20 20:03:47,863 - records - INFO - Validation: Progress:5/100, accuracy:74.95527728085868
+2021-04-20 20:04:37,777 - records - INFO - Training: Progress:6/100, accuracy:72.97843665768194, loss:0.6026756780169701
+2021-04-20 20:04:57,591 - records - INFO - Validation: Progress:6/100, accuracy:74.96645796064401
+2021-04-20 20:05:47,464 - records - INFO - Training: Progress:7/100, accuracy:72.29976896418945, loss:0.6124910005346058
+2021-04-20 20:06:07,200 - records - INFO - Validation: Progress:7/100, accuracy:74.96645796064401
+2021-04-20 20:06:57,098 - records - INFO - Training: Progress:8/100, accuracy:73.06988833269156, loss:0.6053824253928262
+2021-04-20 20:07:16,731 - records - INFO - Validation: Progress:8/100, accuracy:74.96645796064401
+2021-04-20 20:08:06,648 - records - INFO - Training: Progress:9/100, accuracy:72.41528686946477, loss:0.610080374907566
+2021-04-20 20:08:26,239 - records - INFO - Validation: Progress:9/100, accuracy:74.96645796064401
+2021-04-20 20:09:16,178 - records - INFO - Training: Progress:10/100, accuracy:72.179437812861, loss:0.6069956486058501
+2021-04-20 20:09:35,950 - records - INFO - Validation: Progress:10/100, accuracy:74.96645796064401
+2021-04-20 20:10:26,819 - records - INFO - Training: Progress:11/100, accuracy:72.20350404312669, loss:0.6127263487897265
+2021-04-20 20:10:46,468 - records - INFO - Validation: Progress:11/100, accuracy:56.909660107334524
+2021-04-20 20:11:36,329 - records - INFO - Training: Progress:12/100, accuracy:72.50192529842126, loss:0.6115854102451158
+2021-04-20 20:11:56,147 - records - INFO - Validation: Progress:12/100, accuracy:74.96645796064401
+2021-04-20 20:12:45,946 - records - INFO - Training: Progress:13/100, accuracy:72.37196765498652, loss:0.6106847076116271
+2021-04-20 20:13:05,554 - records - INFO - Validation: Progress:13/100, accuracy:74.95527728085868
+2021-04-20 20:13:55,488 - records - INFO - Training: Progress:14/100, accuracy:72.51155179052753, loss:0.61033193201607
+2021-04-20 20:14:15,093 - records - INFO - Validation: Progress:14/100, accuracy:74.96645796064401
+2021-04-20 20:15:04,963 - records - INFO - Training: Progress:15/100, accuracy:72.22757027339237, loss:0.610622252207816
+2021-04-20 20:15:25,947 - records - INFO - Validation: Progress:15/100, accuracy:74.98881932021467
+2021-04-20 20:16:15,776 - records - INFO - Training: Progress:16/100, accuracy:72.04466692337313, loss:0.6135048763417669
+2021-04-20 20:16:35,368 - records - INFO - Validation: Progress:16/100, accuracy:73.82602862254025
+2021-04-20 20:17:25,288 - records - INFO - Training: Progress:17/100, accuracy:72.73296110897189, loss:0.6041327632438646
+2021-04-20 20:17:45,018 - records - INFO - Validation: Progress:17/100, accuracy:63.014311270125226
+2021-04-20 20:18:34,876 - records - INFO - Training: Progress:18/100, accuracy:72.55968425105891, loss:0.6080984751527866
+2021-04-20 20:18:55,189 - records - INFO - Validation: Progress:18/100, accuracy:61.89624329159213
+2021-04-20 20:19:44,581 - records - INFO - Training: Progress:19/100, accuracy:72.40084713130535, loss:0.6112495552566265
+2021-04-20 20:20:04,265 - records - INFO - Validation: Progress:19/100, accuracy:74.96645796064401
+2021-04-20 20:20:53,264 - records - INFO - Training: Progress:20/100, accuracy:72.56449749711206, loss:0.6076900283470721
+2021-04-20 20:21:13,071 - records - INFO - Validation: Progress:20/100, accuracy:74.96645796064401
+2021-04-20 20:22:02,148 - records - INFO - Training: Progress:21/100, accuracy:71.91470927993839, loss:0.6115050689849112
+2021-04-20 20:22:21,822 - records - INFO - Validation: Progress:21/100, accuracy:74.96645796064401
+2021-04-20 20:23:11,563 - records - INFO - Training: Progress:22/100, accuracy:72.37678090103967, loss:0.6119177513969234
+2021-04-20 20:23:31,309 - records - INFO - Validation: Progress:22/100, accuracy:74.97763864042933
+2021-04-20 20:24:20,427 - records - INFO - Training: Progress:23/100, accuracy:72.69926838659993, loss:0.6022400241997846
+2021-04-20 20:24:40,074 - records - INFO - Validation: Progress:23/100, accuracy:74.96645796064401
+2021-04-20 20:25:29,009 - records - INFO - Training: Progress:24/100, accuracy:72.33827493261455, loss:0.6082435775495145
+2021-04-20 20:25:48,783 - records - INFO - Validation: Progress:24/100, accuracy:74.96645796064401
+2021-04-20 20:26:37,857 - records - INFO - Training: Progress:25/100, accuracy:72.25163650365806, loss:0.6099251101580999
+2021-04-20 20:26:57,624 - records - INFO - Validation: Progress:25/100, accuracy:74.96645796064401
+2021-04-20 20:27:46,704 - records - INFO - Training: Progress:26/100, accuracy:72.64150943396227, loss:0.6023705349159261
+2021-04-20 20:28:06,463 - records - INFO - Validation: Progress:26/100, accuracy:74.96645796064401
+2021-04-20 20:28:55,472 - records - INFO - Training: Progress:27/100, accuracy:72.8099730458221, loss:0.6017718178320147
+2021-04-20 20:29:15,113 - records - INFO - Validation: Progress:27/100, accuracy:74.1726296958855
+2021-04-20 20:30:04,738 - records - INFO - Training: Progress:28/100, accuracy:72.13611859838275, loss:0.6175312964216271
+2021-04-20 20:30:24,553 - records - INFO - Validation: Progress:28/100, accuracy:74.96645796064401
+2021-04-20 20:31:14,492 - records - INFO - Training: Progress:29/100, accuracy:71.95321524836349, loss:0.6200650692309555
+2021-04-20 20:31:34,197 - records - INFO - Validation: Progress:29/100, accuracy:74.96645796064401
+2021-04-20 20:32:24,527 - records - INFO - Training: Progress:30/100, accuracy:72.43935309973045, loss:0.6064011035949669
+2021-04-20 20:32:44,314 - records - INFO - Validation: Progress:30/100, accuracy:74.74284436493738
+2021-04-20 20:33:34,318 - records - INFO - Training: Progress:31/100, accuracy:72.14093184443588, loss:0.6139887570122721
+2021-04-20 20:33:53,919 - records - INFO - Validation: Progress:31/100, accuracy:74.95527728085868
+2021-04-20 20:34:43,337 - records - INFO - Training: Progress:32/100, accuracy:73.06507508663843, loss:0.601900767930882
+2021-04-20 20:35:03,234 - records - INFO - Validation: Progress:32/100, accuracy:74.96645796064401
+2021-04-20 20:35:53,266 - records - INFO - Training: Progress:33/100, accuracy:72.63188294185599, loss:0.6092523379200437
+2021-04-20 20:36:13,006 - records - INFO - Validation: Progress:33/100, accuracy:69.40966010733453
+2021-04-20 20:37:02,274 - records - INFO - Training: Progress:34/100, accuracy:71.98209472468233, loss:0.6107377051779248
+2021-04-20 20:37:21,849 - records - INFO - Validation: Progress:34/100, accuracy:74.98881932021467
+2021-04-20 20:38:11,484 - records - INFO - Training: Progress:35/100, accuracy:72.80515979976896, loss:0.6037364968600402
+2021-04-20 20:38:31,052 - records - INFO - Validation: Progress:35/100, accuracy:74.96645796064401
+2021-04-20 20:39:20,586 - records - INFO - Training: Progress:36/100, accuracy:71.93396226415095, loss:0.6180483301808146
+2021-04-20 20:39:40,153 - records - INFO - Validation: Progress:36/100, accuracy:74.96645796064401
+2021-04-20 20:40:29,760 - records - INFO - Training: Progress:37/100, accuracy:72.9976896418945, loss:0.6040926759447193
+2021-04-20 20:40:49,332 - records - INFO - Validation: Progress:37/100, accuracy:74.96645796064401
+2021-04-20 20:41:38,895 - records - INFO - Training: Progress:38/100, accuracy:72.79072006160955, loss:0.6032087304139876
+2021-04-20 20:41:58,634 - records - INFO - Validation: Progress:38/100, accuracy:25.0
+2021-04-20 20:42:48,186 - records - INFO - Training: Progress:39/100, accuracy:72.45860608394301, loss:0.6116250430477276
+2021-04-20 20:43:07,807 - records - INFO - Validation: Progress:39/100, accuracy:74.54159212880143
+2021-04-20 20:43:57,387 - records - INFO - Training: Progress:40/100, accuracy:71.99653446284174, loss:0.6157801865865783
+2021-04-20 20:44:18,506 - records - INFO - Validation: Progress:40/100, accuracy:75.02236135957067
+2021-04-20 20:45:08,506 - records - INFO - Training: Progress:41/100, accuracy:72.82441278398151, loss:0.6015307030041297
+2021-04-20 20:45:28,091 - records - INFO - Validation: Progress:41/100, accuracy:25.82737030411449
+2021-04-20 20:46:18,443 - records - INFO - Training: Progress:42/100, accuracy:72.69926838659993, loss:0.6094950936084866
+2021-04-20 20:46:38,077 - records - INFO - Validation: Progress:42/100, accuracy:74.96645796064401
+2021-04-20 20:47:28,099 - records - INFO - Training: Progress:43/100, accuracy:72.29495571813631, loss:0.6164259453234899
+2021-04-20 20:47:47,778 - records - INFO - Validation: Progress:43/100, accuracy:74.15026833631485
+2021-04-20 20:48:37,717 - records - INFO - Training: Progress:44/100, accuracy:72.16018482864844, loss:0.6127776284549711
+2021-04-20 20:48:57,528 - records - INFO - Validation: Progress:44/100, accuracy:74.95527728085868
+2021-04-20 20:49:47,825 - records - INFO - Training: Progress:45/100, accuracy:71.8280708509819, loss:0.6183492441022963
+2021-04-20 20:50:07,682 - records - INFO - Validation: Progress:45/100, accuracy:74.94409660107334
+2021-04-20 20:50:58,603 - records - INFO - Training: Progress:46/100, accuracy:72.16018482864844, loss:0.6122934872569272
+2021-04-20 20:51:18,215 - records - INFO - Validation: Progress:46/100, accuracy:74.96645796064401
+2021-04-20 20:52:07,987 - records - INFO - Training: Progress:47/100, accuracy:72.47304582210242, loss:0.6046871692272141
+2021-04-20 20:52:27,698 - records - INFO - Validation: Progress:47/100, accuracy:74.95527728085868
+2021-04-20 20:53:17,649 - records - INFO - Training: Progress:48/100, accuracy:72.13611859838275, loss:0.6141640647032259
+2021-04-20 20:53:37,254 - records - INFO - Validation: Progress:48/100, accuracy:74.96645796064401
+2021-04-20 20:54:26,907 - records - INFO - Training: Progress:49/100, accuracy:72.50673854447439, loss:0.6069441170094217
+2021-04-20 20:54:46,630 - records - INFO - Validation: Progress:49/100, accuracy:74.96645796064401
+2021-04-20 20:55:36,637 - records - INFO - Training: Progress:50/100, accuracy:72.12167886022334, loss:0.6162660396021343
+2021-04-20 20:55:56,219 - records - INFO - Validation: Progress:50/100, accuracy:42.08407871198569
+2021-04-20 20:56:46,872 - records - INFO - Training: Progress:51/100, accuracy:72.73777435502502, loss:0.6013998542788582
+2021-04-20 20:57:06,768 - records - INFO - Validation: Progress:51/100, accuracy:74.96645796064401
+2021-04-20 20:57:58,060 - records - INFO - Training: Progress:52/100, accuracy:72.07354639969195, loss:0.6143957198343591
+2021-04-20 20:58:17,618 - records - INFO - Validation: Progress:52/100, accuracy:74.96645796064401
+2021-04-20 20:59:07,566 - records - INFO - Training: Progress:53/100, accuracy:72.46341932999614, loss:0.6101359608721219
+2021-04-20 20:59:27,318 - records - INFO - Validation: Progress:53/100, accuracy:74.96645796064401
+2021-04-20 21:00:17,297 - records - INFO - Training: Progress:54/100, accuracy:72.75221409318445, loss:0.6039547683491092
+2021-04-20 21:00:36,916 - records - INFO - Validation: Progress:54/100, accuracy:46.23211091234347
+2021-04-20 21:01:26,921 - records - INFO - Training: Progress:55/100, accuracy:72.5452445128995, loss:0.6119854066206782
+2021-04-20 21:01:46,604 - records - INFO - Validation: Progress:55/100, accuracy:74.91055456171735
+2021-04-20 21:02:38,034 - records - INFO - Training: Progress:56/100, accuracy:72.57893723527147, loss:0.6091443302406053
+2021-04-20 21:02:57,609 - records - INFO - Validation: Progress:56/100, accuracy:49.51923076923077
+2021-04-20 21:03:48,354 - records - INFO - Training: Progress:57/100, accuracy:72.1168656141702, loss:0.6176395999869453
+2021-04-20 21:04:08,341 - records - INFO - Validation: Progress:57/100, accuracy:74.96645796064401
+2021-04-20 21:04:58,442 - records - INFO - Training: Progress:58/100, accuracy:72.6078167115903, loss:0.6028368370589564
+2021-04-20 21:05:18,082 - records - INFO - Validation: Progress:58/100, accuracy:59.31350626118068
+2021-04-20 21:06:07,967 - records - INFO - Training: Progress:59/100, accuracy:72.45379283788988, loss:0.6066448259410155
+2021-04-20 21:06:27,560 - records - INFO - Validation: Progress:59/100, accuracy:26.90071556350626
+2021-04-20 21:07:17,457 - records - INFO - Training: Progress:60/100, accuracy:72.29014247208318, loss:0.6090630069963167
+2021-04-20 21:07:37,161 - records - INFO - Validation: Progress:60/100, accuracy:74.95527728085868
+2021-04-20 21:08:26,175 - records - INFO - Training: Progress:61/100, accuracy:72.51155179052753, loss:0.6092509173292884
+2021-04-20 21:08:45,881 - records - INFO - Validation: Progress:61/100, accuracy:74.96645796064401
+2021-04-20 21:09:35,704 - records - INFO - Training: Progress:62/100, accuracy:72.16018482864844, loss:0.6148250351689002
+2021-04-20 21:09:55,345 - records - INFO - Validation: Progress:62/100, accuracy:74.96645796064401
+2021-04-20 21:10:45,293 - records - INFO - Training: Progress:63/100, accuracy:72.63669618790912, loss:0.6085919093442482
+2021-04-20 21:11:04,823 - records - INFO - Validation: Progress:63/100, accuracy:74.96645796064401
+2021-04-20 21:11:54,665 - records - INFO - Training: Progress:64/100, accuracy:71.27936080092414, loss:0.6239507829101271
+2021-04-20 21:12:14,343 - records - INFO - Validation: Progress:64/100, accuracy:74.97763864042933
+2021-04-20 21:13:04,204 - records - INFO - Training: Progress:65/100, accuracy:72.47785906815557, loss:0.6081597526895918
+2021-04-20 21:13:23,889 - records - INFO - Validation: Progress:65/100, accuracy:74.96645796064401
+2021-04-20 21:14:13,751 - records - INFO - Training: Progress:66/100, accuracy:72.46823257604929, loss:0.6072699081469694
+2021-04-20 21:14:33,411 - records - INFO - Validation: Progress:66/100, accuracy:74.96645796064401
+2021-04-20 21:15:23,249 - records - INFO - Training: Progress:67/100, accuracy:72.0927993839045, loss:0.6172466162623731
+2021-04-20 21:15:43,093 - records - INFO - Validation: Progress:67/100, accuracy:74.96645796064401
+2021-04-20 21:16:32,921 - records - INFO - Training: Progress:68/100, accuracy:73.14208702348864, loss:0.6028347876135218
+2021-04-20 21:16:52,557 - records - INFO - Validation: Progress:68/100, accuracy:74.77638640429338
+2021-04-20 21:17:42,453 - records - INFO - Training: Progress:69/100, accuracy:72.4441663457836, loss:0.6092529790608652
+2021-04-20 21:18:02,245 - records - INFO - Validation: Progress:69/100, accuracy:72.12656529516994
+2021-04-20 21:18:52,047 - records - INFO - Training: Progress:70/100, accuracy:72.49711205236812, loss:0.6073689293066125
+2021-04-20 21:19:11,649 - records - INFO - Validation: Progress:70/100, accuracy:74.96645796064401
+2021-04-20 21:26:27,740 - records - INFO - only 1th layer is used
+2021-04-20 21:27:54,436 - records - INFO - Training: Progress:0/100, accuracy:74.84116288024644, loss:0.5709864918112434
+2021-04-20 21:28:15,377 - records - INFO - Validation: Progress:0/100, accuracy:74.96645796064401
+2021-04-20 21:29:05,362 - records - INFO - Training: Progress:1/100, accuracy:74.97593376973431, loss:0.5643489819664105
+2021-04-20 21:29:24,761 - records - INFO - Validation: Progress:1/100, accuracy:74.96645796064401
+2021-04-20 21:30:14,559 - records - INFO - Training: Progress:2/100, accuracy:74.94705429341548, loss:0.5596568072741887
+2021-04-20 21:30:35,286 - records - INFO - Validation: Progress:2/100, accuracy:74.97763864042933
+2021-04-20 21:31:25,235 - records - INFO - Training: Progress:3/100, accuracy:74.99518675394687, loss:0.5592934819520048
+2021-04-20 21:31:45,788 - records - INFO - Validation: Progress:3/100, accuracy:74.96645796064401
+2021-04-20 21:32:35,606 - records - INFO - Training: Progress:4/100, accuracy:74.97112052368117, loss:0.557353946971673
+2021-04-20 21:32:55,191 - records - INFO - Validation: Progress:4/100, accuracy:74.96645796064401
+2021-04-20 21:33:45,189 - records - INFO - Training: Progress:5/100, accuracy:74.9374278013092, loss:0.5587138445401678
+2021-04-20 21:34:06,266 - records - INFO - Validation: Progress:5/100, accuracy:75.01118067978533
+2021-04-20 21:34:55,694 - records - INFO - Training: Progress:6/100, accuracy:74.98556026184059, loss:0.561052416264437
+2021-04-20 21:35:15,266 - records - INFO - Validation: Progress:6/100, accuracy:74.96645796064401
+2021-04-20 21:36:05,078 - records - INFO - Training: Progress:7/100, accuracy:74.97112052368117, loss:0.5578275607051784
+2021-04-20 21:36:24,698 - records - INFO - Validation: Progress:7/100, accuracy:74.96645796064401
+2021-04-20 21:37:14,470 - records - INFO - Training: Progress:8/100, accuracy:74.97593376973431, loss:0.5592884821161014
+2021-04-20 21:37:33,935 - records - INFO - Validation: Progress:8/100, accuracy:74.96645796064401
+2021-04-20 21:38:23,822 - records - INFO - Training: Progress:9/100, accuracy:74.9614940315749, loss:0.5598304418529232
+2021-04-20 21:38:43,383 - records - INFO - Validation: Progress:9/100, accuracy:75.01118067978533
+2021-04-20 21:39:34,221 - records - INFO - Training: Progress:10/100, accuracy:74.98556026184059, loss:0.5596213915460974
+2021-04-20 21:39:53,662 - records - INFO - Validation: Progress:10/100, accuracy:74.96645796064401
+2021-04-20 21:40:43,563 - records - INFO - Training: Progress:11/100, accuracy:74.9614940315749, loss:0.5585733533456411
+2021-04-20 21:41:03,274 - records - INFO - Validation: Progress:11/100, accuracy:74.96645796064401
+2021-04-20 21:41:53,171 - records - INFO - Training: Progress:12/100, accuracy:74.97112052368117, loss:0.5609688804523275
+2021-04-20 21:42:12,749 - records - INFO - Validation: Progress:12/100, accuracy:74.96645796064401
+2021-04-20 21:43:02,879 - records - INFO - Training: Progress:13/100, accuracy:74.98074701578744, loss:0.5584377576329866
+2021-04-20 21:43:22,431 - records - INFO - Validation: Progress:13/100, accuracy:74.96645796064401
+2021-04-20 21:44:13,662 - records - INFO - Training: Progress:14/100, accuracy:74.98074701578744, loss:0.5575322198395
+2021-04-20 21:44:33,381 - records - INFO - Validation: Progress:14/100, accuracy:74.96645796064401
+2021-04-20 21:45:23,422 - records - INFO - Training: Progress:15/100, accuracy:74.96630727762803, loss:0.5579896935698937
+2021-04-20 21:45:42,996 - records - INFO - Validation: Progress:15/100, accuracy:74.97763864042933
+2021-04-20 21:46:32,916 - records - INFO - Training: Progress:16/100, accuracy:74.97112052368117, loss:0.5598460110876254
+2021-04-20 21:46:52,439 - records - INFO - Validation: Progress:16/100, accuracy:74.96645796064401
+2021-04-20 21:47:42,282 - records - INFO - Training: Progress:17/100, accuracy:74.97593376973431, loss:0.5588175523301754
+2021-04-20 21:48:01,779 - records - INFO - Validation: Progress:17/100, accuracy:74.96645796064401
+2021-04-20 21:48:51,722 - records - INFO - Training: Progress:18/100, accuracy:74.93261455525607, loss:0.5597500357838562
+2021-04-20 21:49:11,190 - records - INFO - Validation: Progress:18/100, accuracy:74.96645796064401
+2021-04-20 21:50:01,047 - records - INFO - Training: Progress:19/100, accuracy:74.9614940315749, loss:0.558081712862093
+2021-04-20 21:50:20,569 - records - INFO - Validation: Progress:19/100, accuracy:74.96645796064401
+2021-04-20 21:51:10,509 - records - INFO - Training: Progress:20/100, accuracy:74.95186753946862, loss:0.5599645731377519
+2021-04-20 21:51:30,090 - records - INFO - Validation: Progress:20/100, accuracy:74.96645796064401
+2021-04-20 21:52:19,039 - records - INFO - Training: Progress:21/100, accuracy:74.9614940315749, loss:0.5589543202024815
+2021-04-20 21:52:38,612 - records - INFO - Validation: Progress:21/100, accuracy:74.96645796064401
+2021-04-20 21:53:28,474 - records - INFO - Training: Progress:22/100, accuracy:74.99037350789372, loss:0.5581160883663432
+2021-04-20 21:53:48,075 - records - INFO - Validation: Progress:22/100, accuracy:74.96645796064401
+2021-04-20 21:54:37,826 - records - INFO - Training: Progress:23/100, accuracy:74.95186753946862, loss:0.5584878030021144
+2021-04-20 21:54:57,512 - records - INFO - Validation: Progress:23/100, accuracy:74.96645796064401
+2021-04-20 21:55:47,436 - records - INFO - Training: Progress:24/100, accuracy:74.96630727762803, loss:0.5593351079642337
+2021-04-20 21:56:06,915 - records - INFO - Validation: Progress:24/100, accuracy:74.96645796064401
+2021-04-20 21:56:56,816 - records - INFO - Training: Progress:25/100, accuracy:74.9614940315749, loss:0.5589659670722865
+2021-04-20 21:57:16,378 - records - INFO - Validation: Progress:25/100, accuracy:74.96645796064401
+2021-04-20 21:58:06,262 - records - INFO - Training: Progress:26/100, accuracy:74.97112052368117, loss:0.5588202559786161
+2021-04-20 21:58:25,807 - records - INFO - Validation: Progress:26/100, accuracy:74.96645796064401
+2021-04-27 12:39:17,766 - records - INFO - only 0th layer is used
+2021-04-27 12:41:27,132 - records - INFO - only 0th layer is used
+2021-04-27 12:41:54,080 - records - INFO - only 1th layer is used
+2021-04-27 13:04:44,946 - records - INFO - only 0th layer is used
+2021-04-27 13:12:29,255 - records - INFO - only 0th layer is used
+2021-04-27 13:13:41,354 - records - INFO - only 0th layer is used
+2021-05-23 14:36:25,170 - records - INFO - only 1th layer is used
+2021-05-23 14:38:22,943 - records - INFO - Training: Progress:0/100, accuracy:74.95668078552175, loss:0.5727970107936565
+2021-05-23 14:38:54,287 - records - INFO - Validation: Progress:0/100, accuracy:75.0
+2021-05-23 14:40:39,154 - records - INFO - Training: Progress:1/100, accuracy:74.93261455525607, loss:0.5682257936179386
+2021-05-23 14:41:08,832 - records - INFO - Validation: Progress:1/100, accuracy:75.0
+2021-05-23 14:42:54,573 - records - INFO - Training: Progress:2/100, accuracy:74.97112052368117, loss:0.5645710854924868
+2021-05-23 14:43:23,563 - records - INFO - Validation: Progress:2/100, accuracy:75.0
+2021-05-23 14:45:09,921 - records - INFO - Training: Progress:3/100, accuracy:74.91336157104351, loss:0.562331803229092
+2021-05-23 14:45:39,300 - records - INFO - Validation: Progress:3/100, accuracy:75.0
+2021-05-23 14:47:25,554 - records - INFO - Training: Progress:4/100, accuracy:74.88929534077782, loss:0.5633537249584404
+2021-05-23 14:47:55,407 - records - INFO - Validation: Progress:4/100, accuracy:75.0
+2021-05-23 14:49:41,156 - records - INFO - Training: Progress:5/100, accuracy:74.91336157104351, loss:0.5625453502008627
+2021-05-23 14:50:11,331 - records - INFO - Validation: Progress:5/100, accuracy:75.0
+2021-05-23 14:51:57,990 - records - INFO - Training: Progress:6/100, accuracy:74.9374278013092, loss:0.5626654124972588
+2021-05-23 14:52:28,235 - records - INFO - Validation: Progress:6/100, accuracy:75.0
+2021-05-23 14:54:15,179 - records - INFO - Training: Progress:7/100, accuracy:74.96630727762803, loss:0.5617169418275747
+2021-05-23 14:54:45,529 - records - INFO - Validation: Progress:7/100, accuracy:75.0
+2021-05-23 14:56:34,110 - records - INFO - Training: Progress:8/100, accuracy:74.97593376973431, loss:0.5637295724344245
+2021-05-23 14:57:03,048 - records - INFO - Validation: Progress:8/100, accuracy:75.0
+2021-05-23 14:58:50,411 - records - INFO - Training: Progress:9/100, accuracy:74.95186753946862, loss:0.561783036312485
+2021-05-23 14:59:19,834 - records - INFO - Validation: Progress:9/100, accuracy:75.0
+2021-05-23 15:01:12,236 - records - INFO - Training: Progress:10/100, accuracy:74.94224104736234, loss:0.5620549625452087
+2021-05-23 15:01:42,448 - records - INFO - Validation: Progress:10/100, accuracy:75.0
+2021-05-23 15:03:32,949 - records - INFO - Training: Progress:11/100, accuracy:74.95668078552175, loss:0.5618364153645752
+2021-05-23 15:04:05,686 - records - INFO - Validation: Progress:11/100, accuracy:75.0
+2021-05-23 15:05:54,545 - records - INFO - Training: Progress:12/100, accuracy:74.94705429341548, loss:0.5626223836815674
+2021-05-23 15:06:24,329 - records - INFO - Validation: Progress:12/100, accuracy:75.0
+2021-05-23 15:08:09,917 - records - INFO - Training: Progress:13/100, accuracy:74.94224104736234, loss:0.5619623575031092
+2021-05-23 15:08:39,122 - records - INFO - Validation: Progress:13/100, accuracy:75.0
+2021-05-23 15:10:25,151 - records - INFO - Training: Progress:14/100, accuracy:74.97593376973431, loss:0.5607136105017613
+2021-05-23 15:10:54,352 - records - INFO - Validation: Progress:14/100, accuracy:75.0
+2021-05-23 15:12:42,420 - records - INFO - Training: Progress:15/100, accuracy:74.97112052368117, loss:0.5625554100740493
+2021-05-23 15:13:11,499 - records - INFO - Validation: Progress:15/100, accuracy:75.0
+2021-05-23 15:14:57,194 - records - INFO - Training: Progress:16/100, accuracy:74.9374278013092, loss:0.5621654374046559
+2021-05-23 15:15:26,530 - records - INFO - Validation: Progress:16/100, accuracy:75.0
+2021-05-23 15:16:41,970 - records - INFO - only 2th layer is used
+2021-05-23 15:18:43,119 - records - INFO - Training: Progress:0/10, accuracy:74.9374278013092, loss:0.5709156476400152
+2021-05-23 15:19:14,324 - records - INFO - Validation: Progress:0/10, accuracy:75.0
+2021-05-23 15:21:00,406 - records - INFO - Training: Progress:1/10, accuracy:74.97112052368117, loss:0.5646246747014428
+2021-05-23 15:21:30,418 - records - INFO - Validation: Progress:1/10, accuracy:75.0
+2021-05-23 15:23:16,733 - records - INFO - Training: Progress:2/10, accuracy:74.95186753946862, loss:0.5611077488949081
+2021-05-23 15:23:45,936 - records - INFO - Validation: Progress:2/10, accuracy:75.0
+2021-05-23 15:25:33,655 - records - INFO - Training: Progress:3/10, accuracy:74.97593376973431, loss:0.560807112608683
+2021-05-23 15:26:03,486 - records - INFO - Validation: Progress:3/10, accuracy:75.0
+2021-05-23 15:27:49,358 - records - INFO - Training: Progress:4/10, accuracy:74.94705429341548, loss:0.5582845208906053
+2021-05-23 15:28:19,543 - records - INFO - Validation: Progress:4/10, accuracy:75.0
+2021-05-23 15:30:04,418 - records - INFO - Training: Progress:5/10, accuracy:74.8989218328841, loss:0.560070433161513
+2021-05-23 15:30:33,885 - records - INFO - Validation: Progress:5/10, accuracy:75.0
+2021-05-23 15:32:21,331 - records - INFO - Training: Progress:6/10, accuracy:74.96630727762803, loss:0.5584050648238598
+2021-05-23 15:32:50,996 - records - INFO - Validation: Progress:6/10, accuracy:75.0
+2021-05-23 15:34:37,073 - records - INFO - Training: Progress:7/10, accuracy:74.9614940315749, loss:0.560437668185189
+2021-05-23 15:35:07,418 - records - INFO - Validation: Progress:7/10, accuracy:75.0
+2021-05-23 15:36:55,509 - records - INFO - Training: Progress:8/10, accuracy:74.94224104736234, loss:0.5593434068208297
+2021-05-23 15:37:25,305 - records - INFO - Validation: Progress:8/10, accuracy:75.0
+2021-05-23 15:39:11,473 - records - INFO - Training: Progress:9/10, accuracy:74.96630727762803, loss:0.559200441884361
+2021-05-23 15:39:41,034 - records - INFO - Validation: Progress:9/10, accuracy:75.0
+2021-05-23 17:27:32,102 - records - INFO - only 2th layer is used
+2021-05-23 17:28:33,523 - records - INFO - Training: Progress:0/1, accuracy:74.93261455525607, loss:0.5730801222183909
+2021-05-23 17:28:48,414 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-23 17:41:15,195 - records - INFO - only 2th layer is used
+2021-05-23 17:42:16,693 - records - INFO - Training: Progress:0/1, accuracy:74.92780130920292, loss:0.5713471925437656
+2021-05-23 17:42:31,594 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-23 17:44:12,973 - records - INFO - only 2th layer is used
+2021-05-23 17:45:14,426 - records - INFO - Training: Progress:0/1, accuracy:74.9614940315749, loss:0.571780588949787
+2021-05-23 17:45:29,291 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-23 17:45:36,641 - records - INFO - Test: Progress:0/1, accuracy:75.0
+2021-05-24 13:10:54,419 - records - INFO - only 2th layer is used
+2021-05-24 13:11:56,139 - records - INFO - Training: Progress:0/1, accuracy:74.95201535508637, loss:0.5694299437091355
+2021-05-24 13:12:10,991 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-24 13:12:18,304 - records - INFO - Test: Progress:0/1, accuracy:75.0
+2021-05-24 13:12:50,859 - records - INFO - all layers before 12 are used
+2021-05-24 13:16:46,013 - records - INFO - Training: Progress:0/1, accuracy:74.74568138195778, loss:0.5749781521062247
+2021-05-24 13:16:59,728 - records - INFO - Validation: Progress:0/1, accuracy:75.0
+2021-05-24 13:20:53,636 - records - INFO - all layers before 12 are used
+2021-05-24 13:21:52,509 - records - INFO - Training: Progress:0/1, accuracy:75.01919385796545, loss:0.5348970528927965
+2021-05-24 13:22:06,035 - records - INFO - Validation: Progress:0/1, accuracy:75.16778523489933
+2021-05-24 13:24:29,901 - records - INFO - all layers before 12 are used
+2021-05-24 13:25:28,659 - records - INFO - Training: Progress:0/1, accuracy:74.95201535508637, loss:0.5333754157150546
+2021-05-24 13:25:42,179 - records - INFO - Validation: Progress:0/1, accuracy:75.20134228187919
+2021-05-24 13:36:20,437 - records - INFO - all layers before 12 are used
+2021-05-24 13:37:19,273 - records - INFO - Training: Progress:0/1, accuracy:74.83685220729366, loss:0.5366240629593836
+2021-05-24 13:37:34,258 - records - INFO - Validation: Progress:0/1, accuracy:75.18456375838926
+2021-05-24 13:37:41,507 - records - INFO - Test: Progress:0/1, accuracy:75.18456375838926
+2021-05-24 13:40:51,635 - records - INFO - all layers before 12 are used
+2021-05-24 13:41:50,308 - records - INFO - Training: Progress:0/1, accuracy:74.9374278013092, loss:0.5302923655608639
+2021-05-24 13:42:05,225 - records - INFO - Validation: Progress:0/1, accuracy:75.90604026845638
+2021-05-24 13:42:12,522 - records - INFO - Test: Progress:0/1, accuracy:75.90604026845638
