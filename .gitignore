@@ -1,1 +1,4 @@
 model/
+__pycache__
+SemEval2018-Task1-all-data/
+delete/
